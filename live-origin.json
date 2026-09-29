@@ -1,8 +1,9 @@
 {
-  "origin_updated_at": "2026-09-26T17:27:14.2801562+08:00",
-  "checked_at": "2026-09-26T17:31:45.801081+08:00",
-  "origin": "https://distances-kathy-friendship-springs.trycloudflare.com",
+  "origin_updated_at": "2026-09-29T01:36:36.930Z",
+  "checked_at": "2026-09-29T01:36:36.930Z",
+  "origin": "https://adjustable-specially-racing-techniques.trycloudflare.com",
   "check_result": "reachable",
-  "gateway_build": "legacy/unverified",
+  "gateway_build": "unified-public-demo-7fbf309f2275",
+  "release": "unified-public-demo-20260928",
   "temporary_tunnel": true
 }

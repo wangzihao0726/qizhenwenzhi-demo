@@ -1,9 +1,12 @@
 {
-  "origin_updated_at": "2026-09-29T01:36:36.930Z",
-  "checked_at": "2026-09-29T01:36:36.930Z",
-  "origin": "https://adjustable-specially-racing-techniques.trycloudflare.com",
+  "origin_updated_at": "2026-09-29T08:56:01.561385+00:00",
+  "checked_at": "2026-09-29T08:56:01.561409+00:00",
+  "origin": "https://container-packing-regression-physics.trycloudflare.com",
   "check_result": "reachable",
-  "gateway_build": "unified-public-demo-7fbf309f2275",
-  "release": "unified-public-demo-20260928",
-  "temporary_tunnel": true
+  "gateway_build": "public-feature-integration-9a0206dac865",
+  "release": "public-feature-integration-20260929",
+  "temporary_tunnel": true,
+  "business_verified_at": "2026-09-29T08:55:49.352968+00:00",
+  "controlled_execution": "supported_tasks_only",
+  "arbitrary_python_enabled": false
 }

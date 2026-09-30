@@ -1,12 +1,13 @@
 {
   "origin_updated_at": "2026-09-29T08:56:01.561385+00:00",
-  "checked_at": "2026-09-29T11:00:24.896196+00:00",
+  "checked_at": "2026-09-30T01:45:35.924275+00:00",
   "origin": "https://container-packing-regression-physics.trycloudflare.com",
   "check_result": "reachable",
-  "gateway_build": "public-feature-integration-fa4b87f86a88",
-  "release": "public-ux-cleanup-20260929",
+  "gateway_build": "selfcheck-repair-integration-370d0e313b56",
+  "release": "selfcheck-repair-integration",
   "temporary_tunnel": true,
-  "business_verified_at": "2026-09-29T11:00:24.896196+00:00",
+  "business_verified_at": "2026-09-30T01:45:26.275769+00:00",
   "controlled_execution": "supported_tasks_only",
-  "arbitrary_python_enabled": false
+  "arbitrary_python_enabled": false,
+  "integration_commit": "7c0cbec30eef1c74a0dd6886e33cfb8acbe84643"
 }

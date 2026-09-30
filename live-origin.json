@@ -1,13 +1,13 @@
 {
-  "origin_updated_at": "2026-09-29T08:56:01.561385+00:00",
-  "checked_at": "2026-09-30T01:45:35.924275+00:00",
-  "origin": "https://container-packing-regression-physics.trycloudflare.com",
+  "origin_updated_at": "2026-09-30T11:12:33.357427+00:00",
+  "checked_at": "2026-09-30T11:12:33.357427+00:00",
+  "origin": "https://bicycle-sufficiently-positioning-quarters.trycloudflare.com",
   "check_result": "reachable",
-  "gateway_build": "selfcheck-repair-integration-370d0e313b56",
-  "release": "selfcheck-repair-integration",
+  "gateway_build": "release-quality-v1-370d0e313b56",
+  "release": "release-quality-v1",
   "temporary_tunnel": true,
-  "business_verified_at": "2026-09-30T01:45:26.275769+00:00",
+  "business_verified_at": "2026-09-30T11:06:24.318184+00:00",
   "controlled_execution": "supported_tasks_only",
   "arbitrary_python_enabled": false,
-  "integration_commit": "7c0cbec30eef1c74a0dd6886e33cfb8acbe84643"
+  "integration_commit": "9f8c12c88c648958b24f8caccb5a28fa0f30230e"
 }
